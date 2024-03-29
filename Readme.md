@@ -97,6 +97,7 @@ python estimateImportance.py --yaml="Params"
 ```
 ### Citation Information
 *APA*
+
   **Shin, J., Joung, J., & Lim, C. (2024). Determining directions of service quality management using online review mining with interpretable machine learning. International Journal of Hospitality Management, 118, 103684.**
 
 *Bibtex* 
